@@ -11,18 +11,8 @@ package trabalho;
  * @author eduardo
  */
 public class Trabalho {
-teste teste teste teste teste teste teste teste
-        teste teste teste teste
-                worweirwer
-                        w8eru8weur8u9we
-                        weurhuiweh
-                                krguierhgier
-                                tsetse
-                                        testse
-                                        testsetse
-                                                
-                                                eduardofellipeteste11232131231
-    /**
+
+    /**uyfheefhuiseh
      * @param args the command line arguments
      */
     public static void main(String[] args) {
